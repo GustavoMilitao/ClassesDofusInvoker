@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.map.elements
 {
+	// descrição de um elemento de som. (volumes, tempo entre loops, soudid, etc).
    import com.ankamagames.atouin.enums.ElementTypesEnum;
    import flash.utils.IDataInput;
    import com.ankamagames.atouin.AtouinConstants;
