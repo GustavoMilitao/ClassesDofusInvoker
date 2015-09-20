@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.elements
 {
+	// Apenas armazena os tipos de elementos gráficos.
    public class GraphicalElementTypes extends Object
    {
       
