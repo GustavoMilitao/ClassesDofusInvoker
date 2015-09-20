@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.elements
 {
+	// Classe construtora de elementos gráficos.
    import com.ankamagames.atouin.data.elements.subtypes.NormalGraphicalElementData;
    import com.ankamagames.atouin.data.elements.subtypes.BoundingBoxGraphicalElementData;
    import com.ankamagames.atouin.data.elements.subtypes.AnimatedGraphicalElementData;
@@ -15,7 +16,7 @@ package com.ankamagames.atouin.data.elements
       {
          super();
       }
-      
+      // Apartir do param2 (GraphicalElementID) um novo objeto GraphicalElementData é instanciado.
       public static function getGraphicalElementData(param1:int, param2:int) : GraphicalElementData
       {
          switch(param2)
