@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.map.elements
 {
+	// Classe para descrição de elementos gráficos (cores e pontos)
    import com.ankamagames.jerakine.types.ColorMultiplicator;
    import flash.geom.Point;
    import com.ankamagames.atouin.enums.ElementTypesEnum;
