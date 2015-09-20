@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.elements
 {
+	// Classe para definir Elements. Possui coleções para definir elementos do mapa e se é jpg ou não.
    import com.ankamagames.jerakine.logger.Logger;
    import com.ankamagames.jerakine.logger.Log;
    import flash.utils.getQualifiedClassName;
