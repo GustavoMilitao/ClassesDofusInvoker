@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.map.elements
 {
+	// classe de erro de elemento.
    public class UnknownElementError extends Error
    {
        
