@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.map
 {
+	// série de informações a respeito de uma célula.
    import com.ankamagames.jerakine.logger.Logger;
    import com.ankamagames.jerakine.logger.Log;
    import flash.utils.getQualifiedClassName;
