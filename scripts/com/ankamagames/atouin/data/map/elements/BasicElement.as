@@ -13,13 +13,13 @@ package com.ankamagames.atouin.data.map.elements
       protected static const _log:Logger = Log.getLogger(getQualifiedClassName(BasicElement));
        
       private var _cell:Cell;
-      
+      // Construtora recebe uma Cell como início.
       public function BasicElement(param1:Cell)
       {
          super();
          this._cell = param1;
       }
-      
+      // função estática. Passa-se 1 ID (2 - graphical, 33 - sound) e um Cell e é retornado um BasicElement.
       public static function getElementFromType(param1:int, param2:Cell) : BasicElement
       {
          switch(param1)
