@@ -16,7 +16,7 @@ package com.ankamagames.atouin.data.elements
       {
          super();
       }
-      
+      // apartir do param2 (ID de elemento gráfico) a função estática cria um GraphicalElementData e o retorna.
       public static function getGraphicalElementData(param1:int, param2:int) : GraphicalElementData
       {
          switch(param2)
