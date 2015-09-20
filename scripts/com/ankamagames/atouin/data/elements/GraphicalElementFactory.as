@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.elements
 {
+	// classe construtora de elementos gráficos.
    import com.ankamagames.atouin.data.elements.subtypes.NormalGraphicalElementData;
    import com.ankamagames.atouin.data.elements.subtypes.BoundingBoxGraphicalElementData;
    import com.ankamagames.atouin.data.elements.subtypes.AnimatedGraphicalElementData;
