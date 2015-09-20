@@ -1,5 +1,6 @@
 package com.ankamagames.atouin.data.map
 {
+	// Classe de descrição de uma Cell. Há o cellId, Array de Elementos, Layer (desenho), CellCoord (Point) em x e y, entre outras coisas.
    import com.ankamagames.jerakine.logger.Logger;
    import flash.geom.Point;
    import com.ankamagames.atouin.AtouinConstants;
